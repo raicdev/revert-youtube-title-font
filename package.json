@@ -2,7 +2,7 @@
   "name": "revert-youtube-title-font",
   "description": "Change YouTube title font to YouTube Sans.",
   "private": true,
-  "version": "1.2.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
